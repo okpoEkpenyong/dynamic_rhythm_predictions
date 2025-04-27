@@ -1,0 +1,35 @@
+# Core data libraries
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Progress bars
+tqdm
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+
+# Time series forecasting
+prophet
+
+# Big data (optional but useful)
+dask[complete]
+
+# Date handling
+python-dateutil
+
+# File system operations
+pyarrow
+
+# Others (optional but helpful)
+joblib
+ipykernel
+nbformat
+

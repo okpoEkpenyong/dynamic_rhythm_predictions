@@ -1,0 +1,29 @@
+# Python-related files
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.db
+
+# Virtual environment
+dynamic_rhythm_env/
+dynamic_rhythm_train_data/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/s
+
+# PyCharm IDE files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables file
+.env
